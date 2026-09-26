@@ -112,7 +112,7 @@ It provides **personalized resume building, AI-driven cover letters, real-time j
 - Research: AI in Career Coaching, Interview Feedback Models
 ---
 ### 👩‍💻 Team
-- Aditi Yadav – Project Lead, Full Stack Developer
+- Aditi Yadav – Project Lead, AIML and Backend Developer
 
 - Aditi Chourasiya – Frontend Developer
 
